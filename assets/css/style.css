@@ -153,7 +153,15 @@ body {
     flex-direction: column;
     position: sticky;
     background-color: #B7B7B7;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.main .inner-left .inner-form {
+    color: #00171f;
+    font-weight: 600;
+    margin: 10px;
+}
+
 
 .main .inner-right {
     display: flex;
